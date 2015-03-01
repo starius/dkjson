@@ -1,8 +1,7 @@
 package = "dkjson"
 version = "2.5-1"
 source = {
-  url = "http://dkolf.de/src/dkjson-lua.fsl/tarball/dkjson-2.5.tar.gz?uuid=release_2_5",
-  file = "dkjson-2.5.tar.gz"
+  url = "git://github.com/starius/dkjson.git",
 }
 description = {
   summary = "David Kolf's JSON module for Lua",
